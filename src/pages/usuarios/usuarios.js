@@ -1,7 +1,7 @@
 import React from 'react';
-import NavBarPrincipal from './components/navbar';
-import SideMenu from './components/sidemenu';
-import ListaUsuarios from './components/lista_usuarios';
+import NavBarPrincipal from '../components/navbar';
+import SideMenu from '../components/sidemenu';
+import ListaUsuarios from '../components/lista_usuarios';
 
 function ListadoUsuarios() {
 
