@@ -48,7 +48,7 @@ function NavBarPrincipal() {
                         <a href="#" className="dropdown-item">
                             {/* Message Start */}
                             <div className="media">
-                                <img src="dist/img/user1-128x128.jpg" alt="User Avatar" className="img-size-50 mr-3 img-circle" />
+                                <img src="/dist/img/user1-128x128.jpg" alt="User Avatar" className="img-size-50 mr-3 img-circle" />
                                 <div className="media-body">
                                     <h3 className="dropdown-item-title">
                                         Brad Diesel
@@ -64,7 +64,7 @@ function NavBarPrincipal() {
                         <a href="#" className="dropdown-item">
                             {/* Message Start */}
                             <div className="media">
-                                <img src="dist/img/user8-128x128.jpg" alt="User Avatar" className="img-size-50 img-circle mr-3" />
+                                <img src="/dist/img/user8-128x128.jpg" alt="User Avatar" className="img-size-50 img-circle mr-3" />
                                 <div className="media-body">
                                     <h3 className="dropdown-item-title">
                                         John Pierce
@@ -80,7 +80,7 @@ function NavBarPrincipal() {
                         <a href="#" className="dropdown-item">
                             {/* Message Start */}
                             <div className="media">
-                                <img src="dist/img/user3-128x128.jpg" alt="User Avatar" className="img-size-50 img-circle mr-3" />
+                                <img src="/dist/img/user3-128x128.jpg" alt="User Avatar" className="img-size-50 img-circle mr-3" />
                                 <div className="media-body">
                                     <h3 className="dropdown-item-title">
                                         Nora Silvester
