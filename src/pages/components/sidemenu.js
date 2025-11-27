@@ -45,9 +45,9 @@ function SideMenu() {
                             </a>
                             <ul className="nav nav-treeview">
                                 <li className="nav-item">
-                                    <a href="./index.html" className="nav-link active">
+                                    <a href="/" className="nav-link active">
                                         <i className="far fa-circle nav-icon" />
-                                        <p>Dashboard v1</p>
+                                        <p>Panel de control</p>
                                     </a>
                                 </li>
                                 <li className="nav-item">
@@ -65,11 +65,10 @@ function SideMenu() {
                             </ul>
                         </li>
                         <li className="nav-item">
-                            <a href="pages/widgets.html" className="nav-link">
+                            <a href="/usuarios" className="nav-link">
                                 <i className="nav-icon fas fa-th" />
                                 <p>
-                                    Widgets
-                                    <span className="right badge badge-danger">New</span>
+                                    Usuarios
                                 </p>
                             </a>
                         </li>
